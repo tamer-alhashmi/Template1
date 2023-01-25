@@ -343,7 +343,7 @@ body {
 
 /* Start make image by shaps */
 .services .services-content .col .image {
-  background-image: url(/photo/photo3.jpg);
+  background-image: url(../photo/photo3.jpg);
   background-size: cover;
   border-right: 30px solid var(--secondary-color);
   width: 100%;
