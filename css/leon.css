@@ -343,7 +343,7 @@ body {
 
 /* Start make image by shaps */
 .services .services-content .col .image {
-  background-image: url(/photo/photo3.jpg);
+  background-image: url(../photo/photo3.jpg);
   background-size: cover;
   border-right: 30px solid var(--secondary-color);
   width: 100%;
@@ -588,23 +588,9 @@ body {
   color: var(--maincolor1);
   text-decoration: none;
   font-weight: 600;
-  font-size: 30px;
-  transition: 00.5s;
-  font-weight: 600;
-}
-
-/* Start Media  */
-
-/* End Media  */
-
-.Contact .Contact-content .link {
-  color: var(--maincolor1);
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 30px;
+  font-size: 14px;
   transition: 00.5s;
 }
-
 /* Start Media  */
 
 @media (max-width:400px) {
